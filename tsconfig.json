@@ -1,5 +1,5 @@
 {
-  "include": ["**/*.ts", "**/*.tsx"],
+  "include": ["**/*.ts", "**/*.tsx", "src/components/JSX/ConditionalRendering.jsx", "src/components/JSX/TernaryRendering.jsx", "src/components/Props/ObjectProps.jsx", "src/components/Props/FunctionProps.jsx"],
   "compilerOptions": {
     "target": "ES2022",
     "jsx": "react-jsx",
